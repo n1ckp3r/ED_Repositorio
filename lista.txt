@@ -2,4 +2,5 @@ agua
 leche
 pan
 vino
-
+pantalones
+camisetas
