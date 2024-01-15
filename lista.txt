@@ -9,3 +9,4 @@ pijama
 bufanda
 ipad
 cámara réflex
+bañador
