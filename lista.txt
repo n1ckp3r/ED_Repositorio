@@ -2,4 +2,6 @@ agua
 leche
 pan
 vino
-
+queso
+manzanas
+fresas
