@@ -5,3 +5,5 @@ vino
 queso
 manzanas
 fresas
+pijama
+bufanda
