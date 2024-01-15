@@ -7,3 +7,5 @@ manzanas
 fresas
 pijama
 bufanda
+ipad
+cámara réflex
