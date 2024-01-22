@@ -2,5 +2,16 @@ agua
 leche
 pan
 vino
+<<<<<<< HEAD
 pantalones
 camisetas
+=======
+queso
+manzanas
+fresas
+pijama
+bufanda
+ipad
+cámara réflex
+bañador
+>>>>>>> opcionales
